@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.f001aff4.css","mappings":"AAAA,cAGI,kBACA,eAFA,YADA,UAGA","sources":["component/nav.scss"],"sourcesContent":[".color-picker{\r\n    width: 18px;\r\n    height: 18px;\r\n    border-radius: 50%;\r\n    cursor: pointer;\r\n}"],"names":[],"sourceRoot":""}
